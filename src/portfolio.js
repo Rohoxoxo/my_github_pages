@@ -222,7 +222,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Live Site",
-          url: "https://rohoxoxo.github.io"
+          url: "https://github.com/Rohoxoxo/my_github_pages"
         }
       ]
     }
