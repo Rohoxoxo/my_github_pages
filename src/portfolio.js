@@ -34,7 +34,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Rohoxoxo",
   linkedin: "https://www.linkedin.com/in/rohitchadel/",
-  gmail: "rohoxoxo@gmail.com",
+  gmail: "XXXXXXX@gmail.com",
   gitlab: "https://gitlab.com/rohit1663418",
   facebook: "https://www.facebook.com/profile.php?id=61550259182878",
   medium: "https://medium.com/@rohoxoxo",
