@@ -23,8 +23,9 @@ const greeting = {
   username: "Rohit Chandel",
   title: "Hi all, I'm Rohit",
   subTitle: emoji(
-    "A motivated Computer Science student 🚀 with growing skills in AWS, Python, and AI, eager to apply cloud and machine learning knowledge through hands-on projects and internships."),
-  resumeLink: "/resume.pdf",  // ✅ LOCAL FILE PATH
+    "A motivated Computer Science student 🚀 with growing skills in AWS, Python, and AI, eager to apply cloud and machine learning knowledge through hands-on projects and internships."
+  ),
+  resumeLink: "/resume.pdf", // ✅ LOCAL FILE PATH
   displayGreeting: true
 };
 
@@ -47,12 +48,16 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CURIOUS COMPUTER SCIENCE STUDENT EXPLORING CLOUD, AI, AND REAL-WORLD TECH SOLUTIONS",  
+  subTitle:
+    "CURIOUS COMPUTER SCIENCE STUDENT EXPLORING CLOUD, AI, AND REAL-WORLD TECH SOLUTIONS",
   skills: [
-    emoji("⚡ Learning and building projects using AWS services like EC2, S3, and Lambda"),
+    emoji(
+      "⚡ Learning and building projects using AWS services like EC2, S3, and Lambda"
+    ),
     emoji("⚡ Exploring cloud-based AI integrations and serverless computing"),
-    emoji("⚡ Interested in real-world problem solving through cloud and AI technologies"),
-    
+    emoji(
+      "⚡ Interested in real-world problem solving through cloud and AI technologies"
+    )
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -123,13 +128,11 @@ const educationInfo = {
     {
       schoolName: "",
       logo: require("./assets/images/SIUE.png"),
-      
-      
+
       subHeader: "Bachelors In Computer Science",
       duration: "August 2023 - May2026",
-      desc: "Currently pursuing coursework in software engineering, cloud computing, AI/ML, and web development with hands-on lab and project experience.",
-    },
-    
+      desc: "Currently pursuing coursework in software engineering, cloud computing, AI/ML, and web development with hands-on lab and project experience."
+    }
   ]
 };
 
@@ -153,7 +156,6 @@ const techStack = {
   ],
   displayCodersrank: false
 };
-
 
 // Work experience section
 
@@ -186,7 +188,6 @@ const workExperiences = {
     }
   ]
 };
-
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
@@ -230,7 +231,6 @@ const bigProjects = {
   display: true
 };
 
-
 // const bigProjects = {
 //   title: "Big Projects",
 //   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
@@ -270,9 +270,7 @@ const achievementSection = {
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
-  achievementsCards: [
-    
-  ],
+  achievementsCards: [],
   display: true // Set false to hide this section, defaults to true
 };
 
