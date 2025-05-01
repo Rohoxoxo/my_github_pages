@@ -346,7 +346,7 @@ const contactInfo = {
   subtitle:
     "Have a project in mind or just want to say hi? I'm always open to connect!",
   number: "XXX-XXX-XXXX",
-  email_address: "rohoxoxo@gmail.com"
+  email_address: "xxxxxx@gmail.com"
 };
 
 // Twitter Section
