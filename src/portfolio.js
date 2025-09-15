@@ -34,7 +34,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Rohoxoxo",
   linkedin: "https://www.linkedin.com/in/rohitchadel/",
-  gmail: "XXXXXXX@gmail.com",
+  gmail: "rohoxoxo@gmail.com",
   gitlab: "https://gitlab.com/rohit1663418",
   facebook: "https://www.facebook.com/profile.php?id=61550259182878",
   medium: "https://medium.com/@rohoxoxo",
@@ -343,8 +343,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Have a project in mind or just want to say hi? I'm always open to connect!",
-  number: "XXX-XXX-XXXX",
-  email_address: "xxxxxx@gmail.com"
+  number: "314-201-6471",
+  email_address: "rohoxoxo@gmail.com"
 };
 
 // Twitter Section
