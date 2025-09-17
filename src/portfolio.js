@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A motivated Computer Science student 🚀 with growing skills in AWS, Python, and AI, eager to apply cloud and machine learning knowledge through hands-on projects and internships."
   ),
-  resumeLink: "/resume.pdf", // ✅ LOCAL FILE PATH
+  resumeLink: "resume.pdf", // ✅ LOCAL FILE PATH
   displayGreeting: true
 };
 
